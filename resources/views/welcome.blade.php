@@ -16,9 +16,11 @@
 
 <body>
     <h1>KinsideApps</h1>
+    <p>dev@khaledfathi.com</p>
     <hr>
+    <p>Mobile Applications</p>
     <a href="https://play.google.com/store/apps/details?id=com.metro_driver.app&hl=en" target="_blank">
-        <div>
+        <div style="display:inline">
             <img src="https://play-lh.googleusercontent.com/K3V5vu5eBxhwO77szQ7ZfVkTu4hYsHek1QMhjVaaDCa6mN9hyccq4s2GhMnIeQL2bw=w240-h480"
                 alt="app1_image" width="50">
             <label for="">مساعد مترو</label>
